@@ -1,4 +1,4 @@
-# Privacy Policy
+# Device Battery Manager - Privacy Policy
 
 Last updated: November 2, 2025
 
