@@ -2,7 +2,7 @@
 title: Terms of Service
 ---
 
-# Terms of Service
+# Device Battery Manager - Terms of Service
 Last updated: November 2, 2025
 
 Welcome to [Device Battery Manager]! These Terms of Service (“Terms”) govern your use of the [Device Battery Manager] mobile application (“the app,” “we,” “our,” or “us”). By using the app, you agree to these Terms. If you do not agree, please do not use the app.
@@ -47,3 +47,4 @@ These Terms are governed by the laws of [State of Virginia], without regard to i
 # 10. Contact
 
 If you have questions or concerns about these Terms, contact us at: [arrcwoodstudios@gmail.com](mailto:arrcwoodstudios@gmail.com)
+
